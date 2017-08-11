@@ -1,0 +1,5 @@
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\FactuXd\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\FactuXd\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\FactuXd\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\FactuXd\MiLibreria\obj\Debug\MiLibreria.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\FactuXd\MiLibreria\obj\Debug\MiLibreria.csprojResolveAssemblyReference.cache
